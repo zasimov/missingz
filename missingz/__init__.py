@@ -5,6 +5,6 @@ __all__ = ['csvdict', 'csvdictnodups', 'csvtable', 'parse_typed_csv_header', 'ty
 
 from csv import *
 from lxml import *
-from calcindexes import indexes
-from dictobject import DictObject
+from missingz.calcindexes import indexes
+from missingz.dictobject import DictObject
 

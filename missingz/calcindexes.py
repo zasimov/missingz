@@ -1,11 +1,8 @@
-# -*- coding: utf-8 -*-
-
-__author__ = "Zasimov Alexey"
-__email__ = "zasimov-a@yandex-team.ru"
+__author__ = "Alexey Zasimov"
+__email__ = "zasimov@gmail.com"
 
 u"""
-Предположим, что есть список ['a', 'b', 'c']. Нам нужно быстро отображать
-элемент списка на его индекс. В этом списке.
+Module contains function to construct indexes map.
 """
 
 def indexes(l):
